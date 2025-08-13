@@ -1,2 +1,12 @@
-# Spatial-Multi-omics-Datasets
-A curated collection of publicly available spatial multi-omics datasets and associated publications.
+# Spatial Multi-Omics Datasets
+
+This repository curates publicly available **spatial multi-omics datasets** containing **two or more omics modalities**.  
+It aims to provide a centralized resource for researchers working on integrative spatial transcriptomics, proteomics, and other multi-modal studies.
+
+## Datasets
+All datasets include at least two omics modalities. See detailed lists:
+
+- [Multi-omics Datasets](datasets/multiomics.md)
+
+
+
