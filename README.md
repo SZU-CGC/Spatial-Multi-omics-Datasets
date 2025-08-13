@@ -6,7 +6,7 @@ It aims to provide a centralized resource for researchers working on integrative
 ## Datasets
 All datasets include at least two omics modalities. See detailed lists:
 
-- [Multi-omics Datasets](datasets/multiomics.md)
+- [Spatial Multi-omics Datasets](Spatial multi-omics.md)
 
 
 
